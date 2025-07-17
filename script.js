@@ -118,6 +118,7 @@ const elementos = [
   { numero: 116, simbolo: "Lv", nome: "Livermório", grupo: 16, periodo: 7 },
   { numero: 117, simbolo: "Ts", nome: "Tenessino", grupo: 17, periodo: 7 },
   { numero: 118, simbolo: "Og", nome: "Oganessônio", grupo: 18, periodo: 7 }
+  ];
   
 const tabela = document.getElementById("tabela");
 
